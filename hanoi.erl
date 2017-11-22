@@ -1,3 +1,6 @@
+%% Author: Petros Soutzis   <p.soutzis@lancaster.ac.uk>
+%% v0.4    22/11/2017
+
 -module(hanoi).
 -export([create_towers/1, display_towers/1, move/4, solve/1]).
 
